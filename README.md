@@ -4,7 +4,7 @@ A modern, single-page developer portfolio built with React, TypeScript, and Mate
 
 ## Live Preview
 
-> _Add your deployed URL here after hosting_
+https://itskanishk.netlify.app
 
 ## Tech Stack
 
